@@ -2,10 +2,12 @@ Bonjour Julio et Emma,
 Vous trouverez sur ce nouveau GIT, la version de notre projet compilant bien.
 
 INSTALLATION:
-Importer le fichier boulderdash.sql (aucune bdd nommÈe BoulderDash doit exister).
-L'utilisateur Mysql doit Ítre nommÈ root et ne doit pas avoir de MPD.
+Importer le fichier boulderdash.sql (aucune bdd nomm√©e BoulderDash doit exister).
+L'utilisateur Mysql doit √™tre nomm√© root et ne doit pas avoir de MPD.
 
 
-Lancer le programme, ‡ partir du main.
-Le choix du niveau se fait dans la classe "GameLoop" dans le Package "contract" en paramËtre de l'appel ‡ la mÈthode initializeMap();
+Lancer le programme, √† partir du main.
+Le choix du niveau se fait dans la classe "GameLoop" dans le Package "contract" en param√®tre de l'appel √† la m√©thode initializeMap();
+
+Ne pas h√©siter si la d√©tection de touche ne marche pas, √† remd√©marer le programme.
 
